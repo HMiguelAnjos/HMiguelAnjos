@@ -46,7 +46,7 @@ philosophy:   simple systems, strong contracts, observable everything
 </td>
 <td width="38%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HMiguelAnjos&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github" alt="github-stats" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=HMiguelAnjos&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github" alt="github-stats" />
 
 </td>
 </tr>
@@ -260,7 +260,7 @@ Status        <!-- TODO: in development / live / etc -->
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HMiguelAnjos&layout=compact&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9&langs_count=8" alt="top-languages"/>
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HMiguelAnjos&layout=compact&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9&langs_count=8" alt="top-languages"/>
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=HMiguelAnjos&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak"/>
 
 <br/>
